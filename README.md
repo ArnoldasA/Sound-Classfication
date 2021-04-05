@@ -2,7 +2,7 @@
 Trained model which takes in voice input to change audio tracks.
 
 Commands
-Nyan for Nyan Cat
+Nyan/Meow for Nyan Cat
 
 What is love for  Haddaway
 
